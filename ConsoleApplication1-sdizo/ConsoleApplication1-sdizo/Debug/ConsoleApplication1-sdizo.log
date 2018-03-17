@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\user\desktop\sdizo\consoleapplication1-sdizo\consoleapplication1-sdizo\source.cpp(331): warning C4018: '<=': signed/unsigned mismatch
+c:\users\user\desktop\sdizo\consoleapplication1-sdizo\consoleapplication1-sdizo\source.cpp(453): warning C4309: '=': truncation of constant value
+c:\users\user\desktop\sdizo\consoleapplication1-sdizo\consoleapplication1-sdizo\source.cpp(454): warning C4309: '=': truncation of constant value
+c:\users\user\desktop\sdizo\consoleapplication1-sdizo\consoleapplication1-sdizo\source.cpp(455): warning C4309: '=': truncation of constant value
+c:\users\user\desktop\sdizo\consoleapplication1-sdizo\consoleapplication1-sdizo\source.cpp(674): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\desktop\sdizo\consoleapplication1-sdizo\consoleapplication1-sdizo\source.cpp(724): warning C4101: 'value': unreferenced local variable
+c:\users\user\desktop\sdizo\consoleapplication1-sdizo\consoleapplication1-sdizo\source.cpp(879): warning C4101: 'value': unreferenced local variable
+  ConsoleApplication1-sdizo.vcxproj -> C:\Users\User\Desktop\SDIZO\ConsoleApplication1-sdizo\Debug\ConsoleApplication1-sdizo.exe
+  ConsoleApplication1-sdizo.vcxproj -> C:\Users\User\Desktop\SDIZO\ConsoleApplication1-sdizo\Debug\ConsoleApplication1-sdizo.pdb (Full PDB)

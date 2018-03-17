@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\user\desktop\sdizo\consoleapplication1-sdizo\consoleapplication1-sdizo\Header.h(23): warning C4309: '=': truncation of constant value
+c:\users\user\desktop\sdizo\consoleapplication1-sdizo\consoleapplication1-sdizo\Header.h(24): warning C4309: '=': truncation of constant value
+c:\users\user\desktop\sdizo\consoleapplication1-sdizo\consoleapplication1-sdizo\Header.h(25): warning C4309: '=': truncation of constant value
+Source.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(90): warning C4101: 'value': unreferenced local variable
+Source.cpp(254): warning C4101: 'value': unreferenced local variable
+  Generating code
+  1 of 268 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1-sdizo.vcxproj -> C:\Users\User\Desktop\SDIZO\ConsoleApplication1-sdizo\Release\ConsoleApplication1-sdizo.exe
+  ConsoleApplication1-sdizo.vcxproj -> C:\Users\User\Desktop\SDIZO\ConsoleApplication1-sdizo\Release\ConsoleApplication1-sdizo.pdb (Full PDB)
